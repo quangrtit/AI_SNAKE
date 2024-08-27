@@ -1,0 +1,16 @@
+# YELLOW: (255, 255, 102)
+# BLACK: (0, 0, 0)
+# GREEN: (0, 255, 0)
+# BLUE: (50, 153, 213)
+
+BLOCK_SIZE: 10
+DIS_WIDTH: 800
+DIS_HEIGHT: 600
+
+QVALUES_N: 100
+FRAMESPEED: 100000
+learningRate: 0.7
+epsilon: 0.1
+epsilon_max: 0.995
+epsilon_min: 0.1
+gamma: 0.5
